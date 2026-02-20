@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "きみも悪い人でよかった (Cover)",
+  "base_artist": "そらる",
+  "createdAt": "2026-02-20T06:03:14.702381Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "きみも悪い人でよかった",
+      "artist": "ピノキオピー",
+      "has_synced": true,
+      "path": "select/01_きみも悪い人でよかった_ピノキオピー.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "きみも悪い人でよかった",
+      "artist": "PinocchioP feat. Hatsune Miku",
+      "has_synced": true,
+      "path": "select/02_きみも悪い人でよかった_PinocchioP_feat._Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "きみも悪い人でよかった",
+      "artist": "PinocchioP",
+      "has_synced": true,
+      "path": "select/03_きみも悪い人でよかった_PinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "きみも悪い人でよかった",
+      "artist": "PinocchioP",
+      "has_synced": true,
+      "path": "select/04_きみも悪い人でよかった_PinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "きみも悪い人でよかった",
+      "artist": "ピノキオピー feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/05_きみも悪い人でよかった_ピノキオピー_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "きみも悪い人でよかった",
+      "artist": "ピノキオピー",
+      "has_synced": true,
+      "path": "select/06_きみも悪い人でよかった_ピノキオピー.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "きみも悪い人でよかった",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/07_きみも悪い人でよかった_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ピノキオピー - きみも悪い人でよかった feat. 初音ミク / I'm glad you're evil too",
+      "artist": "PinocchioP",
+      "has_synced": true,
+      "path": "select/08_ピノキオピー_-_きみも悪い人でよかった_feat._初音ミク___I'm_glad_you're_evil_too_PinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "きみも悪い人でよかった (feat. Hatsune Miku)",
+      "artist": "PinocchioP",
+      "has_synced": true,
+      "path": "select/09_きみも悪い人でよかった_(feat._Hatsune_Miku)_PinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "きみも悪い人でよかった (feat․ SILVANA)",
+      "artist": "SILVANA",
+      "has_synced": false,
+      "path": "select/10_きみも悪い人でよかった_(feat._SILVANA)_SILVANA.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'm Glad You're Evil Too (English Cover)【Will Stetson】「きみも悪い人でよかった」",
+      "artist": "Will Stetson",
+      "has_synced": true,
+      "path": "select/11_I'm_Glad_You're_Evil_Too_(English_Cover)【Will_Stetson】「きみも悪い人でよかった」_Will_Stetson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "きみも悪い人でよかった",
+      "artist": "そらる",
+      "has_synced": false,
+      "path": "select/pl_01_きみも悪い人でよかった_そらる.txt"
+    }
+  ]
+}
